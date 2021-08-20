@@ -1,0 +1,25 @@
+RESTful API
+middleware
+authentication
+Authorization
+Datatables and Pagination
+validation
+CRUD
+Pagination
+Images library
+migration
+error and exception handling
+
+
+
+
+
+
+
+
+
+
+
+
+Update image
+ÍÐÝ ÇáÇÔÚÇÑ
